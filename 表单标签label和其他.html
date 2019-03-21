@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单标签练习</title>
+</head>
+<body>
+<form action="">
+    账号：<input type="text">
+    <br>
+    密码：<input type="password">
+    <br>
+    <hr>
+    <label for="abc">账号：</label><input type="text" id="abc">
+    <label for="def">密码：</label><input type="password" id="def">
+    <br>
+    <hr>
+    <label>账号：<input type="text"></label>
+    <label>密码：<input type="password"></label>
+    <input type="image" src="maomi.jpeg" width="200" height="150"><br>
+    性别：
+    男：<input type="radio" name="lalala" checked="checked">
+    女：<input type="radio" name="lalala"><br>
+    爱好：
+    <input type="checkbox"> 乒乓球
+    <input type="checkbox"> 羽毛球
+    <input type="checkbox" checked="checked"> 保龄球
+    <input type="button" value="确认"  onclick="alter('what')">
+    <br>
+    <hr>
+    <br>
+    你的车型为：<input type="text" list="list">
+    <datalist id="list">
+        <option>奔驰</option>
+        <option>宝马</option>
+        <option>路虎</option>
+        <option>兰博基尼</option>
+        <option>比亚迪</option>
+    </datalist>
+    <!--因为所支持的浏览器比较少所以只要了解就行。-->
+    <br>
+    <hr>
+    <br>
+    邮箱：<input type="email">
+    域名：<input type="url">
+    电话：<input type="number">
+    出生日期：<input type="date">
+    颜色：<input type="color">
+    <input type="submit" value="确认">
+</form>
+</body>
+</html>
