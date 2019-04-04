@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>外边距塌陷现象</title>
+    <style>
+        body{
+            margin: 0px;
+            padding: 0px;
+        }
+        span{
+            width: 100px;
+            height: 100px;
+            display: inline-block;
+            border: 1px solid #000;
+        }
+        .hezi1{
+            /*margin-top: 20px;*/
+            /*margin-right: 40px;*/
+            /*margin-bottom: 80px;*/
+            /*margin-left: 160px;*/
+        }
+        .box1{
+            height: 150px;
+            width: 150px;
+            padding: 25px;
+            border: 1px solid #000;
+            background-color: #f00;
+        }
+        .box2{
+            height: 200px;
+            width: 200px;
+            border: 1px solid #000;
+            background-color: #f00;
+        }
+    </style>
+</head>
+<body>
+<span class="hezi1">我是盒子</span><span class="hezi2">我是盒子</span>
+<div class="box1"></div>
+<div class="box2"></div>
+</body>
+</html>
