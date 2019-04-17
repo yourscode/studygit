@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>清除浮动方式一</title>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+        }
+        .box1{
+            background-color: #f00;
+            height: 25px;
+        }
+        .box2{
+            background-color: #0f0;
+        }
+        .box1 p{
+            background-color: #00f;
+            width: 100px;
+            float: left;
+        }
+        .box2 p{
+            width: 100px;
+            background-color: yellow;
+            float: left;
+        }
+    </style>
+</head>
+<body>
+<div class="box1">
+    <p>我是文字1</p>
+    <p>我是文字1</p>
+    <p>我是文字1</p>
+</div>
+<div class="box2">
+    <p>我是文字2</p>
+    <p>我是文字2</p>
+    <p>我是文字2</p>
+</div>
+</body>
+</html>

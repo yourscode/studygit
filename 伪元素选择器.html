@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>伪元素选择器</title>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+        }
+        div{
+            width: 200px;
+            height: 200px;
+            background-color: #f00;
+        }
+        div::before{
+            content: ' hello my baby!';
+            background-color: pink;
+            display: block;
+            height: 50px;
+            width: 100px;
+            visibility: hidden;
+        }
+        div::after{
+            content: ' i amm here';
+            background-color: #fff;
+            display: block;
+            height: 50px;
+            width: 100px;
+            visibility: hidden;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <!--<p>爱你</p>-->
+    我是div
+    <!--<p>么么哒</p>-->
+</div>
+</body>
+</html>
