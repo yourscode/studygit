@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e479912-d6a8-4076-aac0-90ea15290ed4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/a标签的伪类选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ad1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ad2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ad3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ad4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ad5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ad6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/content.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/left_ad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/meat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/right_ad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tuangou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/定位流-焦点图练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/定位练习-团购界面.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/定位练习-新浪首页.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/绝对定位-子绝父相-导航条制作.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/绝对定位参考点.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/过渡模块.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/过渡模块其他属性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/过渡模块手风琴效果.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/过渡没模块弹性效果.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/select标签和textarea.html" beforeDir="false" afterPath="$PROJECT_DIR$/select标签和textarea.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/过渡模块手风琴效果.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+            <state relative-caret-position="684">
+              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -225,11 +200,6 @@
               <item name="L05布局" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
-            <path>
-              <item name="L05布局" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -242,7 +212,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557394392582" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557398954703" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -296,7 +266,7 @@
       <workItem from="1556465820276" duration="1222000" />
       <workItem from="1557100769932" duration="1407000" />
       <workItem from="1557130494059" duration="1226000" />
-      <workItem from="1557226465124" duration="11458000" />
+      <workItem from="1557226465124" duration="12692000" />
     </task>
     <task id="LOCAL-00001" summary="第一次在IDEA中提交一个项目到github中">
       <created>1553171466881</created>
@@ -382,15 +352,21 @@
       <option name="project" value="LOCAL" />
       <updated>1556289103519</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="试两下">
+      <created>1557395891316</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1557395891317</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219349000" />
+    <option name="totallyTimeSpent" value="220583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1313673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -828,8 +804,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/过渡模块手风琴效果.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+        <state relative-caret-position="684">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
         </state>
       </provider>
     </entry>
