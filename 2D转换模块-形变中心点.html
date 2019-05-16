@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>2D转换模块-形变中心点</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        ul{
+            width: 200px;
+            height: 200px;
+            border: 1px solid #000;
+            margin: 200px auto;
+            position: relative;
+        }
+        ul li{
+            list-style: none;
+            width: 200px;
+            height: 200px;
+            position: absolute;
+            left: 0;
+            top: 0;
+            /*transform-origin: 200px 0px;*/
+            /*transform-origin: 50% 50%;*/
+            /*transform-origin: 0% 0%;*/
+            transform-origin: left bottom;
+        }
+        ul li:nth-child(1){
+            background-color: red;
+            transform: rotate(30deg);
+        }
+        ul li:nth-child(2){
+            background-color: green;
+            transform: rotate(50deg);
+        }
+        ul li:nth-child(3){
+            background-color: blue;
+            transform: rotate(70deg);
+        }
+    </style>
+</head>
+<body>
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+</body>
+</html>

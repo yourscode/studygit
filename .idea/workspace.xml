@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e479912-d6a8-4076-aac0-90ea15290ed4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2D转换模块-形变中心点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2D转换模块-旋转轴向.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2D转换模块-练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2D转换模块.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2D转换模块相片墙.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cloud_one.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cloud_three.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cloud_two.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rotateX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rotateY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rotateZ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动画模块-云层效果.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动画模块.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动画模块其他属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/盒子阴影和文字阴影.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/翻转菜单综合练习.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/过渡没模块弹性效果.html" beforeDir="false" afterPath="$PROJECT_DIR$/过渡没模块弹性效果.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,64 +36,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/定位流-焦点图练习.html">
+        <entry file="file://$PROJECT_DIR$/2D转换模块相片墙.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            <state relative-caret-position="494">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/过渡模块其他属性.html">
+        <entry file="file://$PROJECT_DIR$/盒子阴影和文字阴影.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+            <state relative-caret-position="380">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/过渡没模块弹性效果.html">
+        <entry file="file://$PROJECT_DIR$/动画模块其他属性.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="618">
+              <caret line="71" column="40" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/过渡模块手风琴效果.html">
+        <entry file="file://$PROJECT_DIR$/翻转菜单综合练习.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            <state relative-caret-position="200">
+              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/Tencent Files/415943594/FileRecv/MobileFile/display.html">
+        <entry file="file://$PROJECT_DIR$/动画模块-云层效果.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/背景图片练习.html">
+        <entry file="file://$PROJECT_DIR$/动画模块.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="285">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a标签的伪类选择器.html">
+        <entry file="file://$PROJECT_DIR$/表格练习题.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            <state relative-caret-position="152">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -84,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/边框属性练习.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="703">
               <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
             </state>
           </provider>
@@ -120,16 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/制作百度首页.html" />
-        <option value="$PROJECT_DIR$/test javascript.html" />
-        <option value="$PROJECT_DIR$/code.js" />
-        <option value="$PROJECT_DIR$/跑马灯属性marquee.html" />
-        <option value="$PROJECT_DIR$/背景定位属性.html" />
-        <option value="$PROJECT_DIR$/背景缩写.html" />
-        <option value="$PROJECT_DIR$/背景图片和插入图片的区别.html" />
-        <option value="$PROJECT_DIR$/背景图片练习.html" />
-        <option value="$PROJECT_DIR$/精灵图练习.html" />
-        <option value="$PROJECT_DIR$/精灵图练习2.html" />
         <option value="$PROJECT_DIR$/边框属性.html" />
         <option value="$PROJECT_DIR$/内边距属性.html" />
         <option value="$PROJECT_DIR$/外边距属性.html" />
@@ -169,8 +181,18 @@
         <option value="$PROJECT_DIR$/select标签和textarea.html" />
         <option value="$PROJECT_DIR$/过渡模块.html" />
         <option value="$PROJECT_DIR$/过渡模块其他属性.html" />
-        <option value="$PROJECT_DIR$/过渡没模块弹性效果.html" />
         <option value="$PROJECT_DIR$/过渡模块手风琴效果.html" />
+        <option value="$PROJECT_DIR$/2D转换模块.html" />
+        <option value="$PROJECT_DIR$/2D转换模块-形变中心点.html" />
+        <option value="$PROJECT_DIR$/2D转换模块-旋转轴向.html" />
+        <option value="$PROJECT_DIR$/2D转换模块-练习.html" />
+        <option value="$PROJECT_DIR$/2D转换模块相片墙.html" />
+        <option value="$PROJECT_DIR$/盒子阴影和文字阴影.html" />
+        <option value="$PROJECT_DIR$/过渡没模块弹性效果.html" />
+        <option value="$PROJECT_DIR$/翻转菜单综合练习.html" />
+        <option value="$PROJECT_DIR$/动画模块.html" />
+        <option value="$PROJECT_DIR$/动画模块-云层效果.html" />
+        <option value="$PROJECT_DIR$/动画模块其他属性.html" />
       </list>
     </option>
   </component>
@@ -180,10 +202,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="267" />
-    <option name="width" value="1403" />
-    <option name="height" value="1030" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1300" />
+    <option name="height" value="918" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -193,26 +216,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="L05布局" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557398954703" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557927039422" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -266,7 +279,13 @@
       <workItem from="1556465820276" duration="1222000" />
       <workItem from="1557100769932" duration="1407000" />
       <workItem from="1557130494059" duration="1226000" />
-      <workItem from="1557226465124" duration="12692000" />
+      <workItem from="1557226465124" duration="17311000" />
+      <workItem from="1557666463952" duration="513000" />
+      <workItem from="1557670414418" duration="18457000" />
+      <workItem from="1557795477018" duration="15791000" />
+      <workItem from="1557927259232" duration="614000" />
+      <workItem from="1557928448261" duration="55000" />
+      <workItem from="1557928667223" duration="2554000" />
     </task>
     <task id="LOCAL-00001" summary="第一次在IDEA中提交一个项目到github中">
       <created>1553171466881</created>
@@ -359,16 +378,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557395891317</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="试两下">
+      <created>1557399800700</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557399800700</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220583000" />
+    <option name="totallyTimeSpent" value="263186000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1313673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.061662197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -450,83 +477,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="试两下" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/精灵图练习.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/精灵图练习2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/边框属性.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/外边距塌陷现象.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/box-sizing属性.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/盒子模型练习.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/清空默认边距.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="27" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/文章界面练习.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/背景图片.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内边距属性.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/外边距属性.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/yourscode.github.io/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1292">
@@ -736,13 +686,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a标签的伪类选择器.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -757,16 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS序选择器——难点下.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/边框属性练习.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/定位流-焦点图练习.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -774,10 +707,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/过渡模块.html">
+    <entry file="file://$PROJECT_DIR$/过渡模块其他属性.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="741">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/过渡模块手风琴效果.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2D转换模块.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -788,24 +735,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/过渡模块其他属性.html">
+    <entry file="file://$PROJECT_DIR$/a标签的伪类选择器.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        <state relative-caret-position="399">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/过渡没模块弹性效果.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="323">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/过渡模块手风琴效果.html">
+    <entry file="file://$PROJECT_DIR$/2D转换模块-形变中心点.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        <state relative-caret-position="513">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2D转换模块-旋转轴向.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2D转换模块-练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2D转换模块相片墙.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/盒子阴影和文字阴影.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动画模块-云层效果.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动画模块.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/表格练习题.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS序选择器——难点下.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/边框属性练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/过渡模块.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动画模块其他属性.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="71" column="40" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/翻转菜单综合练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
         </state>
       </provider>
     </entry>

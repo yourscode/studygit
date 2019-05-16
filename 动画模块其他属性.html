@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>动画模块其他属性</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .box1{
+            background-color: red;
+            width: 100px;
+            height: 50px;
+            animation-name: sport;
+            animation-duration: 5s;
+            animation-iteration-count: infinite;
+            position: absolute;
+            animation-direction: alternate;
+        }
+        @keyframes sport {
+            0%{
+                left: 0;
+                top: 0;
+            }
+            25%{
+                left: 300px;
+                top: 0;
+            }
+            50%{
+                left: 300px;
+                top: 300px;
+            }
+            75%{
+                left: 0;
+                top: 300px;
+            }
+            100%{
+                left: 0;
+                top: 0;
+            }
+        }
+        .box2{
+            width: 200px;
+            height: 200px;
+            background-color: blue;
+            margin: 100px auto;
+            animation-name: myrotate;
+            animation-duration: 5s;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+            animation-fill-mode: both;
+        }
+        @keyframes myrotate {
+            0%{
+                transform: rotate(30deg);
+            }
+            25%{
+                transform: rotate(60deg);
+            }
+            50%{
+                transform: rotate(90deg);
+            }
+            75%{
+                transform: rotate(120deg);
+            }
+            100%{
+                transform: rotate(150deg);
+            }
+        }
+        .box2:hover{
+            animation-play-state: paused;
+        }
+    </style>
+</head>
+<body>
+<div class="box1"></div>
+<div class="box2"></div>
+</body>
+</html>
